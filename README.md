@@ -1,4 +1,4 @@
-# Midi Fighter 16 by 4D
+# Midi Fighter 16 
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 
