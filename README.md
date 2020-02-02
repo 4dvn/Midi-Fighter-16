@@ -3,7 +3,7 @@
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 
 MIDI Controller for various DAW and music programs. This is a MIDI Fighter styled unit and is really fun to play with. Has been tested it in Ableton Live, Reason, Garage Band, and Traktor. Works like a charm. MIDI Map it to what ever you want. It has 4 Analog and 16 Digital output. 
-
+## ![Image description](https://github.com/4dvn/Midi-Fighter-16/blob/master/Images/11a483314189ecbfeb5ec6528f5cb3bf_preview_featured.jpg)
 ## What hardware you need to make one:
 
 Before you begin, ensure you have met the following requirements:
@@ -45,7 +45,7 @@ https://github.com/arduino-libraries/MIDIUSB/releases
 * Infill: 14
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Contributing to <MIDI Controller by 4D>
+## Contributing to <Midi Fighter 16>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <project_name>, follow these steps:
 
