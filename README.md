@@ -31,6 +31,11 @@ Windows:
 https://moco-lufa-web-client.herokuapp.com/
 https://github.com/qmk/qmk_toolbox/releases
 ```
+## Library
+```
+https://github.com/tttapa/Control-Surface/releases
+https://github.com/arduino-libraries/MIDIUSB/releases
+```
 ## Print Settings <Midi Fighter 16>
 * Printer Brand: Prusa
 * Printer: Prusa Mk2
