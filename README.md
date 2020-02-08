@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 * 4 Knobs size: 15mm x 17mm (KN-11/WS) 
 * 4 10k potentiometers 
 * 8 4-6mm M3 button head screws
-* Arduino Uno (mounting screws or glue gun)
+* Arduino Uno/Mega2560 (mounting screws or glue gun)
 * Dupont wires for the arduino
 * Wires for the buttons and potentiometers
 
