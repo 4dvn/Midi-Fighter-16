@@ -45,7 +45,7 @@ https://github.com/arduino-libraries/MIDIUSB/releases
 * Infill: 14
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-<!---## Contributing to <Midi Fighter 16>
+<!---## Contributing 
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 <!---To contribute to <project_name>, follow these steps:
 
@@ -61,8 +61,8 @@ Add run commands and examples you think users will find useful. Provide an optio
 
 Thanks to the following people who have contributed to this project:
 
-* [@4dvn](https://github.com/4dvn) 📖
-<!---* [@cainwatson](https://www.thingiverse.com/Staal3D) 🐛
+* [@4dvn](https://github.com/4dvn)
+* https://www.thingiverse.com/Staal3D
 * [@calchuchesta](https://github.com/calchuchesta) 🐛
 
 You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
