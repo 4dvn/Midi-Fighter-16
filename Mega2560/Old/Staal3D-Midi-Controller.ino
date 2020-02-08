@@ -30,7 +30,7 @@ byte pin13index = 11; // put the index of the pin 13 in the buttonPin[] if you a
 /////////////////////////////////////////////
 // debounce
 unsigned long lastDebounceTime[NButtons] = {0};  // the last time the output pin was toggled
-unsigned long debounceDelay = 7;    //* the debounce time; increase if the output flickers Standard 5
+unsigned long debounceDelay = 5;    //* the debounce time; increase if the output flickers Standard 5 // 7 
 
 /////////////////////////////////////////////
 // potentiometers
