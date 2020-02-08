@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 * Dupont wires for the arduino
 * Wires for the buttons and potentiometers
 
-## Installing <Midi Fighter 16>
+## Installing 
 
 For the software use the MocoLufa boot loader and you are able to program the Arduino again without needing to flash the boot loader. This is what the ON/OFF switch is for. READ THE MocoLUFA instructions on the link. And as a bonus the Arduino shows up and work as a normal Native USB MIDI device without the need for a emulator such as hairless MIDI etc:
 
