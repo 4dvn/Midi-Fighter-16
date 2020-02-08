@@ -74,4 +74,7 @@ If you want to contact me you can reach me at <vuha.hau@hyper.vn>.
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<4D>](<https://github.com/4dvn/Midi-Fighter-16/blob/master/LICENSE>)., Staal3D
+This project uses the following license: [<4D>](<https://github.com/4dvn/Midi-Fighter-16/blob/master/LICENSE>).
+* https://github.com/4dvn
+* https://www.thingiverse.com/Staal3D
+
