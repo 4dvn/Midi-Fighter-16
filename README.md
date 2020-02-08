@@ -61,9 +61,9 @@ Add run commands and examples you think users will find useful. Provide an optio
 
 Thanks to the following people who have contributed to this project:
 
-* [@4dvn](https://github.com/4dvn)
+* https://github.com/4dvn
 * https://www.thingiverse.com/Staal3D
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
+
 
 You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
