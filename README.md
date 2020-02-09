@@ -36,7 +36,10 @@ https://github.com/qmk/qmk_toolbox/releases
 https://github.com/tttapa/Control-Surface/releases
 https://github.com/arduino-libraries/MIDIUSB/releases
 ```
-## Print Settings <Midi Fighter 16>
+# Schematic
+![Image description](https://github.com/4dvn/Midi_Fighter_24/blob/master/Schematic/Button-matrix.png)
+
+## Print Settings
 * Printer Brand: Prusa
 * Printer: Prusa Mk2
 * Rafts: No
