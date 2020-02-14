@@ -15,15 +15,16 @@ CCPotentiometer potentiometer2(A1, {MIDI_CC::Channel_Volume, CHANNEL_3});
 CCPotentiometer potentiometer3(A2, {MIDI_CC::Channel_Volume, CHANNEL_4});
 
 CCPotentiometer potentiometer4(A3, {MIDI_CC::Channel_Volume, CHANNEL_5});
-\*
+
+/*
 // Transposer to go +1 to -1 octave
 Transposer<-2, +2> transposer(16);
 IncrementDecrementSelector<transposer.getNumberOfBanks()> transposeSelector = {
   transposer,
-  {14, 15}, // Press push button A0 → +1 octave, A1 → -1 octave, A0+A1 → reset
+  {10, 11}, // Press push button A0 → +1 octave, A1 → -1 octave, A0+A1 → reset
   Wrap::Clamp,
 };
-
+*/
 
 // The note numbers corresponding to the buttons in the matrix
 const AddressMatrix<4, 4> addresses = {{
