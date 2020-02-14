@@ -15,7 +15,7 @@ CCPotentiometer potentiometer2(A1, {MIDI_CC::Channel_Volume, CHANNEL_3});
 CCPotentiometer potentiometer3(A2, {MIDI_CC::Channel_Volume, CHANNEL_4});
 
 CCPotentiometer potentiometer4(A3, {MIDI_CC::Channel_Volume, CHANNEL_5});
-\*
+*/
 // Transposer to go +1 to -1 octave
 Transposer<-2, +2> transposer(16);
 IncrementDecrementSelector<transposer.getNumberOfBanks()> transposeSelector = {
