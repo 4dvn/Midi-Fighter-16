@@ -17,7 +17,6 @@ CCPotentiometer potentiometer3(A2, {MIDI_CC::Channel_Volume, CHANNEL_4});
 CCPotentiometer potentiometer4(A3, {MIDI_CC::Channel_Volume, CHANNEL_5});
 
 /*
-
 // Instantiate two potentiometers for the volume controls.
 Bankable::CCPotentiometer potentiometer1 = {
   {bank, BankType::CHANGE_CHANNEL},     // bank configuration
@@ -28,7 +27,6 @@ Bankable::CCPotentiometer potentiometer2 = {
   {bank, BankType::CHANGE_CHANNEL},     // bank configuration
   A1,                                   // analog pin
   {
-
 */
 
 /*
