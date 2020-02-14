@@ -2,7 +2,7 @@
  *     Midi Fighter 16 by Staal3D & 4D
  *     ---------------------------------------
  */
-// Tranposer buttons updating....
+// Tranposer buttons & potentiometers updating....
 #include <Control_Surface.h>
 
 USBMIDI_Interface midi;
