@@ -17,6 +17,21 @@ CCPotentiometer potentiometer3(A2, {MIDI_CC::Channel_Volume, CHANNEL_4});
 CCPotentiometer potentiometer4(A3, {MIDI_CC::Channel_Volume, CHANNEL_5});
 
 /*
+
+// Instantiate two potentiometers for the volume controls.
+Bankable::CCPotentiometer potentiometer1 = {
+  {bank, BankType::CHANGE_CHANNEL},     // bank configuration
+  A0,                                   // analog pin
+  {MIDI_CC::Channel_Volume, CHANNEL_1}, // address
+};
+Bankable::CCPotentiometer potentiometer2 = {
+  {bank, BankType::CHANGE_CHANNEL},     // bank configuration
+  A1,                                   // analog pin
+  {
+
+*/
+
+/*
 // Transposer to go +1 to -1 octave
 Transposer<-2, +2> transposer(16);
 IncrementDecrementSelector<transposer.getNumberOfBanks()> transposeSelector = {
